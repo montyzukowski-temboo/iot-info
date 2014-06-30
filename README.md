@@ -10,6 +10,7 @@ Arduino Yún and Temboo
 
 ### Troubleshooting
 
+- If you run into any problems, email support@temboo.com, and they'll get back to you quickly
 - If Gmail gives an error, try allowing a new connection from https://accounts.google.com/accounts/DisplayUnlockCaptcha
 
 ### Resources
