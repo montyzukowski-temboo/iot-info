@@ -11,7 +11,7 @@ Arduino Yún and Temboo
 ### Troubleshooting
 
 - If Gmail gives an error, try allowing a new connection from https://accounts.google.com/accounts/DisplayUnlockCaptcha
-￼
+
 ### Resources
 
 - Sample projects: http://blog.temboo.com/tagged/projects
