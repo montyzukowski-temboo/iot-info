@@ -15,6 +15,6 @@ Arduino Yún and Temboo
 ### Resources
 
 - Sample projects: http://blog.temboo.com/tagged/projects
-- Arduino Cookbook: http://shop.oreilly.com/product/9780596802486.do
-- Make Electronics: http://shop.oreilly.com/product/0636920027874.do
+- Arduino Cookbook: http://shop.oreilly.com/product/9780596802486.do (diagrams were from here)
+- Make Electronics: http://shop.oreilly.com/product/0636920027874.do (good basic electronics introduction)
 - O'Reilly frequently has sales on maker ebooks for "Back to School" time and around Maker Faires (Bay Area and NY)
